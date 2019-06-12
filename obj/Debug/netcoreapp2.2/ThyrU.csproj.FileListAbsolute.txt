@@ -1,0 +1,14 @@
+C:\Users\Stephanie\Desktop\ThyrU\bin\Debug\netcoreapp2.2\ThyrU.deps.json
+C:\Users\Stephanie\Desktop\ThyrU\bin\Debug\netcoreapp2.2\ThyrU.runtimeconfig.json
+C:\Users\Stephanie\Desktop\ThyrU\bin\Debug\netcoreapp2.2\ThyrU.runtimeconfig.dev.json
+C:\Users\Stephanie\Desktop\ThyrU\bin\Debug\netcoreapp2.2\ThyrU.dll
+C:\Users\Stephanie\Desktop\ThyrU\bin\Debug\netcoreapp2.2\ThyrU.pdb
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.csprojAssemblyReference.cache
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.RazorAssemblyInfo.cache
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.RazorAssemblyInfo.cs
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.AssemblyInfoInputs.cache
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.AssemblyInfo.cs
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.RazorTargetAssemblyInfo.cache
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.dll
+C:\Users\Stephanie\Desktop\ThyrU\obj\Debug\netcoreapp2.2\ThyrU.pdb
